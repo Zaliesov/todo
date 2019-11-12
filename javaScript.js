@@ -7,5 +7,9 @@ function foo(a,b){
 		console.log(false);
 	}
 	return res;
-}
+};
 foo(5,5);
+
+function(a,b){
+return a + b;
+}
