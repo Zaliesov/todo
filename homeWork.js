@@ -9,7 +9,7 @@ for(i=0;i<myNodelist.length;i++){
 }
 
 let close = document.getElementsByClassName('close');
-let i;
+let p;
 for(p=0;p<close.length;p++){
   close[p].onclick = function(){
     let div = this.parentElement;
